@@ -1,0 +1,21 @@
+time: Apr 21 2021 19:49:52 Temp: 22 Weather Partial Cloud
+time: Apr 21 2021 19:49:54 Temp: 22 Weather Sun
+time: Apr 21 2021 19:49:56 Temp: 23 Weather Sun
+time: Apr 21 2021 19:49:58 Temp: 24 Weather Partial Cloud
+time: Apr 21 2021 19:50:00 Temp: 21 Weather Partial Cloud
+time: Apr 21 2021 19:50:02 Temp: 24 Weather Sun
+time: Apr 21 2021 19:50:04 Temp: 21 Weather Partial Cloud
+time: Apr 21 2021 19:50:06 Temp: 20 Weather Sun
+time: Apr 21 2021 19:50:08 Temp: 23 Weather Partial Cloud
+time: Apr 21 2021 19:50:10 Temp: 24 Weather Sun
+time: Apr 21 2021 19:50:12 Temp: 23 Weather Partial Cloud
+time: Apr 21 2021 19:50:15 Temp: 22 Weather Partial Cloud
+time: Apr 21 2021 19:50:17 Temp: 23 Weather Partial Cloud
+time: Apr 21 2021 19:50:19 Temp: 23 Weather Sun
+time: Apr 21 2021 19:50:21 Temp: 23 Weather Sun
+time: Apr 21 2021 19:50:23 Temp: 21 Weather Sun
+time: Apr 21 2021 19:50:25 Temp: 21 Weather Partial Cloud
+time: Apr 21 2021 19:50:27 Temp: 24 Weather Sun
+time: Apr 21 2021 19:50:29 Temp: 22 Weather Partial Cloud
+time: Apr 21 2021 19:50:31 Temp: 22 Weather Sun
+time: Apr 21 2021 19:50:33 Temp: 22 Weather Sun
